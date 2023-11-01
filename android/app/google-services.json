@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280706866668",
+    "project_id": "mayfair-34409",
+    "storage_bucket": "mayfair-34409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280706866668:android:ff0b4281a8b6e806e9b4c9",
+        "android_client_info": {
+          "package_name": "com.catalyictech.mayfair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280706866668-45rmmridliid1ue60a3cvq0cud3ln8qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLmoI6aIuElbcZMOuv5Yj7ugF9egf-jWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280706866668-45rmmridliid1ue60a3cvq0cud3ln8qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
